@@ -1,0 +1,6 @@
+framework module OTJAlertController {
+  umbrella header "OTJAlertController-umbrella.h"
+
+  export *
+  module * { export * }
+}

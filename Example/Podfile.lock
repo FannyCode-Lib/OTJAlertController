@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - OTJAlertController (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - OTJAlertController (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  OTJAlertController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  OTJAlertController: 459275a8b9fc65fbf94b5ff0111c572be40a57fd
+
+PODFILE CHECKSUM: 016ca1b6971b02751fec107f15805f338deeeb48
+
+COCOAPODS: 1.10.1

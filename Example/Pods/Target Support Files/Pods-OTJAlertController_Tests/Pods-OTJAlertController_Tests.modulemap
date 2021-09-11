@@ -1,0 +1,6 @@
+framework module Pods_OTJAlertController_Tests {
+  umbrella header "Pods-OTJAlertController_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

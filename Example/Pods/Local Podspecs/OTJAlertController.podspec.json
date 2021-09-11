@@ -1,0 +1,22 @@
+{
+  "name": "OTJAlertController",
+  "version": "0.1.0",
+  "summary": "A short description of OTJAlertController.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhengmengdi@gmail.com/OTJAlertController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhengmengdi@gmail.com": "cody@glitzstar.in"
+  },
+  "source": {
+    "git": "https://github.com/zhengmengdi@gmail.com/OTJAlertController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "OTJAlertController/Classes/**/*"
+}
