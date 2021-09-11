@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/zhengmengdi@gmail.com/OTJAlertController'
+  s.homepage         = 'https://github.com/FannyCode-Lib/OTJAlertController.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'zhengmengdi@gmail.com' => 'cody@glitzstar.in' }
-  s.source           = { :git => 'https://github.com/zhengmengdi@gmail.com/OTJAlertController.git', :tag => s.version.to_s }
+  s.author           = { 'zhengmengdi@gmail.com' => 'Andy' }
+  s.source           = { :git => 'https://github.com/FannyCode-Lib/OTJAlertController.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
