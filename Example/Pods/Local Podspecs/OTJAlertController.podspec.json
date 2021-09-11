@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of OTJAlertController.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/zhengmengdi@gmail.com/OTJAlertController",
+  "homepage": "https://github.com/FannyCode-Lib/OTJAlertController.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "zhengmengdi@gmail.com": "cody@glitzstar.in"
+    "zhengmengdi@gmail.com": "Andy"
   },
   "source": {
-    "git": "https://github.com/zhengmengdi@gmail.com/OTJAlertController.git",
+    "git": "https://github.com/FannyCode-Lib/OTJAlertController.git",
     "tag": "0.1.0"
   },
   "platforms": {
